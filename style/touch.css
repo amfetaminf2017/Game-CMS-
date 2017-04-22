@@ -1,0 +1,31 @@
+/* Author amfetaminf */
+body {color: #31486c;font-family:Arial, Tahoma;font-size:14px;background:#091526;background-position: 50% 50%;background-attachment: fixed;margin:0 auto;max-width: 364px;min-width: 128px;word-wrap:break-word;line-height: 21px;}
+a:link{text-decoration: none;color: #606060;}
+a:hover{text-decoration: none;color: #808080;} 
+a:visited{text-decoration: none;color: #606060;}
+a.button{background-color:#303030;color:#fff;font-weight:400px;font-size:13px;padding:3px 10px;}
+textArea{max-width: 355px; min-width: 355px; min-height: 100px;}
+form{border: 1px solid #0f2b52; padding: 2px;margin: 1px;}
+input[type=submit],input[type=button],input[type~=submit],input[type~=button]{background: none;border: none;height: 50px;margin: 5px;min-width: 140px;}
+input[type=submit]:hover,input[type=button]:hover,input[type~=submit]:hover,input[type~=button]:hover{background: #09192E;transition: .8s;height: 50px;margin: 5px;min-width: 140px;}
+.table{background-color: #0e213a;padding:5px;}
+.big-but{display:block;width:98%;height:40px;padding-top:6px;margin:0 auto;text-align:center;font-size:12px;position:center;border:1px solid #091526;}
+.big-but:hover{display:block;width:98%;height:40px;padding-top:6px;margin:0 auto;text-align:center;font-size:12px;position:center;border:1px solid #091526;background: #0f2b52;transition: .8s;}
+.link-touch{display: block;border-bottom: 1px solid #09192E;padding: 10px 10px 10px 18px;}
+.link-touch:hover {background: #0f2b52;transition: .8s;}
+.block{background: #0e213a;text-align: left;padding: 0px;}
+.error{border-left: 9px solid darkred; border-bottom: 1px solid darkred;border-top: 1px solid darkred;border-right: 1px solid darkred;padding-left: 10px; min-height: 40px;}
+.success{border-left: 9px solid darkgreen;border-bottom: 1px solid darkgreen;border-top: 1px solid darkgreen;border-right: 1px solid darkgreen;padding-left: 10px;min-height: 40px;}
+.header{}
+.title{margin: 5px;display: block;position: relative;width: 60%;margin-left: auto;margin-right: auto;background: #0f2b52;text-align: center;color: #fff;font-size: 18px;border-radius: 20px;padding: 7px 10px;text-shadow: 0 1px 0 #000;}
+.navigation-head-orange{background: #FA703A;text-align: center; color: #000;margin: 8px;padding: 8px;}
+.border-orange{border: 1px solid #FA703A; margin: 1px;}
+.navigation-head-green{background: #0f2b52;text-align: center; color: #fff;margin: 8px;padding: 8px;}
+.border-green{border: 1px solid #0f2b52; margin: 1px;}
+.user-panel{min-height: 35px;padding: 2px;} 
+.content{text-align: left;padding: 0px;border: 1px solid #0f2b52;font-size: 16px;}
+.line{background: url(img/line.png) left bottom repeat-x #a16b40;height: 3px;}
+hr{border: none;margin: 24px 0 0;border-bottom: 1px solid #0f2b52;border-top: 1px solid #091526;}
+input.dark{background: #091526;border: none;padding: 10px 10px 10px 52px;border-radius: 4px;margin: 5px;border-top: 1px solid #0e213a;border-bottom: 1px solid #0e213a;color: #fff;margin-top: -31px;}
+input.dark:hover{background-color: #0b1a2e;transition: .8s;}
+.count{float: right;padding: 3px;min-width: 44px;text-align: center;background: #091526;border-radius: 3px;margin: 0 17px 0 0;}

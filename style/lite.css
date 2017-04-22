@@ -1,0 +1,27 @@
+/* author amfetaminf */
+body {color: #bcc1d5;font-family:Arial, Tahoma;font-size:18px;background:#000000;background-position: 50% 50%;background-attachment: fixed;margin:0 auto;max-width: 500px;min-width: 128px;word-wrap:break-word;}
+a:link{text-decoration: none;color: #606060;}
+a:hover{text-decoration: none;color: #808080;} 
+a:visited{text-decoration: none;color: #606060;}
+a.button{background-color:#303030;color:#fff;font-weight:400px;font-size:13px;padding:3px 10px;}
+textArea{max-width: 475px; min-width: 475px; min-height: 100px;}
+form{border: 1px solid #284440; padding: 2px;margin: 1px;}
+input[type=submit],input[type=button],input[type~=submit],input[type~=button]{background: #303030;border: 1px solid #284440;height: 30px;margin: 5px;}
+input[type=submit]:hover,input[type=button]:hover,input[type~=submit]:hover,input[type~=button]:hover{background: #303030;border: 1px solid #284440;height: 30px;margin: 5px;box-shadow:0 0 15px 0 #284440 inset;}
+input[type=text] {min-height: 40px; min-width: 240px;}
+.table{background-color:#303030;padding:5px;}
+.big-but{display:block;width:98%;height:40px;padding-top:6px;margin:0 auto;text-align:center;font-size:12px;position:center;border:1px solid #21211E;}
+.big-but:hover{display:block;width:98%;height:40px;padding-top:6px;margin:0 auto;text-align:center;font-size:12px;position:center;border:1px solid #21211E;}
+.link-touch{background: #383838;display:block;margin:1px;text-align:left!important;color:#62bbff;padding:7px;font-size:12px;border: 1px #505050 solid;}
+.link-touch:hover {border:1px #284440 solid;}
+.block{background: #252525;text-align: left;padding: 10px;}
+.error{background-color: #252525;border-left: 9px solid darkred; border-bottom: 1px solid darkred;border-top: 1px solid darkred;border-right: 1px solid darkred;padding-left: 10px; min-height: 40px;}
+.success{background-color: #252525;border-left: 9px solid darkgreen;border-bottom: 1px solid darkgreen;border-top: 1px solid darkgreen;border-right: 1px solid darkgreen;padding-left: 10px; min-height: 40px;}
+.header{}
+.title{min-height: 35px; background-color: #284440;padding: 7px;text-align: center;text-decoration: none;}
+.navigation-head-orange{background: #FA703A;text-align: center; color: #000;margin: 8px;padding: 8px;}
+.border-orange{border: 1px solid #FA703A; margin: 1px;}
+.navigation-head-green{background: #284440;text-align: center; color: #000;margin: 8px;padding: 8px;}
+.border-green{border: 1px solid #284440; margin: 1px;}
+.user-panel{border: 1px solid #284440;min-height: 35px;padding: 2px;} 
+.content{text-align: left;padding: 5px;border: 1px solid #284440;font-size: 16px;}
